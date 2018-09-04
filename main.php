@@ -15,6 +15,7 @@ $array_shop[3] = '名古屋';
 $array_shop[4] = '松戸';
 $array_shop[5] = '習志野';
 $array_shop[6] = '我孫子';
+$array_shop[7] = '銚子';
 
 print_r( $array_shop );
 print('<br>');
